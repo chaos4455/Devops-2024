@@ -1,0 +1,56 @@
+# Define o caminho da raiz onde as UOs serão criadas
+$raizOU = "LDAP://OU=Empresas de Software,DC=replika,DC=local"
+
+# Lista de nomes das UOs a serem criadas
+$uos = @(
+    "Desenvolvimento",
+    "Engenharia de Software",
+    "Testes",
+    "Qualidade de Software",
+    "Infraestrutura de TI",
+    "Suporte Técnico",
+    "Consultoria",
+    "Vendas",
+    "Marketing",
+    "Recursos Humanos",
+    "Financeiro",
+    "Administrativo",
+    "Jurídico",
+    "Compras",
+    "Logística",
+    "Treinamento",
+    "Atendimento ao Cliente",
+    "Projetos",
+    "Pesquisa e Desenvolvimento",
+    "Inovação",
+    "Parcerias Estratégicas",
+    "Gestão de Produto",
+    "Planejamento Estratégico",
+    "Desenvolvimento de Negócios",
+    "Relações Públicas",
+    "Comunicação",
+    "Operações",
+    "Gerência Executiva",
+    "Gerência de TI",
+    "Gerência de Projetos",
+    "Gerência de Qualidade",
+    "Gerência de Vendas",
+    "Gerência de Marketing",
+    "Gerência de Recursos Humanos",
+    "Gerência Financeira",
+    "Gerência Administrativa",
+    "Gerência Jurídica",
+    "Gerência de Compras",
+    "Gerência de Logística",
+    "Gerência de Treinamento",
+    "Gerência de Atendimento ao Cliente",
+    "Gerência de Pesquisa e Desenvolvimento"
+)
+
+# Loop através da lista de UOs e cria cada uma delas
+foreach ($uo in $uos) {
+    $newOU = [ADSI]"$raizOU"
+    $childOU = $newOU.Create("OrganizationalUnit", "OU=$uo")
+    $childOU.SetInfo()
+    Write-Host "Unidade Organizacional $uo criada com sucesso."
+}
