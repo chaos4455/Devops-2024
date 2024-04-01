@@ -2,6 +2,26 @@
 
 # 📁 Portfólio de DevOps 2024
 
+## Sobre Mim
+
+Olá! Meu nome é Elias Andrade e sou um profissional de TI com mais de 14 anos de experiência na área de infraestrutura de TI, com foco em administração de redes, sistemas Linux e práticas DevOps. Atuei em uma variedade de ambientes, desde pequenas empresas até grandes corporações, adquirindo um conhecimento sólido e uma abordagem versátil para resolver desafios complexos de TI.
+
+## Propósito
+
+Meu objetivo é utilizar minha experiência e habilidades para contribuir de forma significativa para projetos e equipes de DevOps, ajudando a implementar práticas eficientes de automação, gerenciamento de infraestrutura e desenvolvimento de software.
+
+## Contato
+
+- 📧 Email: oeliasandrade@gmail.com
+- 📱 Telefone: (44) 98859-7116 (WhatsApp disponível)
+
+## Mais Informações
+
+Para mais detalhes sobre minha experiência, habilidades e certificações, confira meu [currículo completo](https://github.com/chaos4455/Certifica-es).
+
+---
+
+
 Neste repositório, você encontrará uma coleção de materiais relacionados a práticas de DevOps, incluindo scripts, manuais e procedimentos para diversas tarefas e configurações comumente encontradas no ambiente de desenvolvimento e operações.
 
 ## 📝 Manuais
