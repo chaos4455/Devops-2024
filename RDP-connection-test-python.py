@@ -24,7 +24,7 @@ $credenciais = Get-Credential -Message "Por favor, insira suas credenciais de lo
 
 # Lista de hosts e portas
 $hosts = @(
-    @{ IP = "gruponaka.ddns.com.br"; Porta = 3503 }
+    @{ IP = "hostnameexemplo.ddns.com.br"; Porta = 3503 }
     # Adicione mais hosts conforme necessário
 )
 
