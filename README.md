@@ -40,6 +40,88 @@ Para mais detalhes sobre minha experiência, habilidades e certificações, conf
   - **PowerShell:** ![PowerShell](https://img.shields.io/badge/PowerShell-%2B%204%20Years-brightgreen)
   - **Bash:** ![Bash](https://img.shields.io/badge/Bash-%2B%204%20Years-brightgreen)
 
+# 🛠️ Tecnologias e Ferramentas
+
+## 🏆 Expertise e Tempo de Experiência
+
+### **1. Administração de Sistemas e Infraestrutura**
+- **Windows Server 2016** ![Windows Server 2016](https://img.shields.io/badge/Windows%20Server%202016-%2B%2010%20Years-brightgreen)
+  - **Nível de Conhecimento:** Avançado ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
+- **Linux (Ubuntu, CentOS, RedHat)** ![Linux](https://img.shields.io/badge/Linux-%2B%2014%20Years-brightgreen)
+  - **Nível de Conhecimento:** Avançado ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
+- **ITIL** ![ITIL](https://img.shields.io/badge/ITIL-%2B%2010%20Years-brightgreen)
+  - **Nível de Conhecimento:** Avançado ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
+- **Active Directory** ![Active Directory](https://img.shields.io/badge/Active%20Directory-%2B%208%20Years-brightgreen)
+  - **Nível de Conhecimento:** Avançado ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
+- **Virtualização (VMware, Hyper-V)** ![Virtualização](https://img.shields.io/badge/Virtualiza%C3%A7%C3%A3o-%2B%207%20Years-brightgreen)
+  - **Nível de Conhecimento:** Intermediário ![Intermediário](https://img.shields.io/badge/N%C3%ADvel-Intermedi%C3%A1rio-yellow)
+
+### **2. DevOps e Automação**
+- **Docker** ![Docker](https://img.shields.io/badge/Docker-%2B%205%20Years-brightgreen)
+  - **Nível de Conhecimento:** Avançado ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
+- **Kubernetes** ![Kubernetes](https://img.shields.io/badge/Kubernetes-%2B%205%20Years-brightgreen)
+  - **Nível de Conhecimento:** Avançado ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
+- **CI/CD (Jenkins, GitLab CI, Travis CI)** ![CI/CD](https://img.shields.io/badge/CI%2FCD-%2B%205%20Years-brightgreen)
+  - **Nível de Conhecimento:** Avançado ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
+- **Terraform** ![Terraform](https://img.shields.io/badge/Terraform-%2B%204%20Years-brightgreen)
+  - **Nível de Conhecimento:** Intermediário ![Intermediário](https://img.shields.io/badge/N%C3%ADvel-Intermedi%C3%A1rio-yellow)
+- **Ansible** ![Ansible](https://img.shields.io/badge/Ansible-%2B%203%20Years-brightgreen)
+  - **Nível de Conhecimento:** Intermediário ![Intermediário](https://img.shields.io/badge/N%C3%ADvel-Intermedi%C3%A1rio-yellow)
+- **Puppet** ![Puppet](https://img.shields.io/badge/Puppet-%2B%202%20Years-brightgreen)
+  - **Nível de Conhecimento:** Básico ![Básico](https://img.shields.io/badge/N%C3%ADvel-B%C3%A1sico-red)
+- **Chef** ![Chef](https://img.shields.io/badge/Chef-%2B%201%20Year-brightgreen)
+  - **Nível de Conhecimento:** Básico ![Básico](https://img.shields.io/badge/N%C3%ADvel-B%C3%A1sico-red)
+
+### **3. Programação e Scripting**
+- **Python** ![Python](https://img.shields.io/badge/Python-%2B%207%20Years-brightgreen)
+  - **Nível de Conhecimento:** Avançado ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
+- **Bash** ![Bash](https://img.shields.io/badge/Bash-%2B%204%20Years-brightgreen)
+  - **Nível de Conhecimento:** Avançado ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
+- **PowerShell** ![PowerShell](https://img.shields.io/badge/PowerShell-%2B%204%20Years-brightgreen)
+  - **Nível de Conhecimento:** Avançado ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
+
+### **4. Bancos de Dados e Armazenamento**
+- **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-%2B%204%20Years-brightgreen)
+  - **Nível de Conhecimento:** Intermediário ![Intermediário](https://img.shields.io/badge/N%C3%ADvel-Intermedi%C3%A1rio-yellow)
+- **PostgreSQL** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2B%203%20Years-brightgreen)
+  - **Nível de Conhecimento:** Intermediário ![Intermediário](https://img.shields.io/badge/N%C3%ADvel-Intermedi%C3%A1rio-yellow)
+- **MongoDB** ![MongoDB](https://img.shields.io/badge/MongoDB-%2B%202%20Years-brightgreen)
+  - **Nível de Conhecimento:** Básico ![Básico](https://img.shields.io/badge/N%C3%ADvel-B%C3%A1sico-red)
+
+### **5. Redes e Segurança**
+- **Firewalls (UFW, iptables)** ![Firewalls](https://img.shields.io/badge/Firewalls-%2B%205%20Years-brightgreen)
+  - **Nível de Conhecimento:** Intermediário ![Intermediário](https://img.shields.io/badge/N%C3%ADvel-Intermedi%C3%A1rio-yellow)
+- **VPNs (OpenVPN)** ![VPNs](https://img.shields.io/badge/VPNS-%2B%204%20Years-brightgreen)
+  - **Nível de Conhecimento:** Intermediário ![Intermediário](https://img.shields.io/badge/N%C3%ADvel-Intermedi%C3%A1rio-yellow)
+- **Segurança em Linux** ![Segurança Linux](https://img.shields.io/badge/Seguran%C3%A7a%20em%20Linux-%2B%204%20Years-brightgreen)
+  - **Nível de Conhecimento:** Intermediário ![Intermediário](https://img.shields.io/badge/N%C3%ADvel-Intermedi%C3%A1rio-yellow)
+
+### **6. Cloud Computing**
+- **AWS (Amazon Web Services)** ![AWS](https://img.shields.io/badge/AWS-%2B%203%20Years-brightgreen)
+  - **Nível de Conhecimento:** Intermediário ![Intermediário](https://img.shields.io/badge/N%C3%ADvel-Intermedi%C3%A1rio-yellow)
+- **Azure** ![Azure](https://img.shields.io/badge/Azure-%2B%202%20Years-brightgreen)
+  - **Nível de Conhecimento:** Básico ![Básico](https://img.shields.io/badge/N%C3%ADvel-B%C3%A1sico-red)
+- **Google Cloud Platform** ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Platform-%2B%201%20Year-brightgreen)
+  - **Nível de Conhecimento:** Básico ![Básico](https://img.shields.io/badge/N%C3%ADvel-B%C3%A1sico-red)
+
+### **7. Ferramentas de Versionamento e Colaboração**
+- **Git** ![Git](https://img.shields.io/badge/Git-%2B%207%20Years-brightgreen)
+  - **Nível de Conhecimento:** Avançado ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
+- **GitHub** ![GitHub](https://img.shields.io/badge/GitHub-%2B%205%20Years-brightgreen)
+  - **Nível de Conhecimento:** Avançado ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
+- **GitLab** ![GitLab](https://img.shields.io/badge/GitLab-%2B%204%20Years-brightgreen)
+  - **Nível de Conhecimento:** Avançado ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
+
+### **8. Ferramentas de Desenvolvimento**
+- **Visual Studio Code** ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-%2B%205%20Years-brightgreen)
+  - **Nível de Conhecimento:** Avançado ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
+
+---
+
+Este bloco contém um resumo detalhado de tecnologias e ferramentas com as quais trabalho. Estou sempre aberto a aprender e experimentar novas ferramentas e tecnologias para manter-me atualizado e eficiente em minha prática profissional.
+
+Se precisar de mais informações ou quiser ajustar algum detalhe, é só me avisar!
+
 ---
 
 ## 📚 Manuais
