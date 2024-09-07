@@ -45,7 +45,7 @@ Para mais detalhes sobre minha experiência, habilidades e certificações, conf
 ## 🏆 Expertise e Tempo de Experiência
 
 ### **1. Administração de Sistemas e Infraestrutura**
-- **Windows Server 2016** ![Windows Server 2016](https://img.shields.io/badge/Windows%20Server%202016-%2B%2010%20Years-brightgreen)
+- **Windows Server** ![Windows Server](https://img.shields.io/badge/Windows%20Server%20-%2B%2010%20Years-brightgreen)
   - **Nível de Conhecimento:** Avançado ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
 - **Linux (Ubuntu, CentOS, RedHat)** ![Linux](https://img.shields.io/badge/Linux-%2B%2014%20Years-brightgreen)
   - **Nível de Conhecimento:** Avançado ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
