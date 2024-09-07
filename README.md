@@ -40,12 +40,6 @@ Para mais detalhes sobre minha experiência, habilidades e certificações, conf
   - **PowerShell:** ![PowerShell](https://img.shields.io/badge/PowerShell-%2B%204%20Years-brightgreen)
   - **Bash:** ![Bash](https://img.shields.io/badge/Bash-%2B%204%20Years-brightgreen)
 
-### 🚀 Nível de Expertise
-
-- **Experiência Avançada:** ![Avançado](https://img.shields.io/badge/N%C3%ADvel-Avan%C3%A7ado-brightgreen)
-- **Experiência Intermediária:** ![Intermediário](https://img.shields.io/badge/N%C3%ADvel-Intermedi%C3%A1rio-yellow)
-- **Experiência Básica:** ![Básico](https://img.shields.io/badge/N%C3%ADvel-B%C3%A1sico-red)
-
 ---
 
 ## 📚 Manuais
