@@ -15,6 +15,53 @@ Meu objetivo é utilizar minha experiência e habilidades para contribuir de for
 - 📧 **Email:** [oeliasandrade@gmail.com](mailto:oeliasandrade@gmail.com)
 - 📱 **Telefone:** (44) 98859-7116 (WhatsApp disponível)
 
+# 🌟 **Destaque do Portfólio: Projeto RAG Avançado** 🌟
+
+<img width="221" alt="Cursor_byyIKdx0Ns" src="https://github.com/user-attachments/assets/74d58df1-bf51-4c8d-8f1b-bb622e7faa52">
+<img width="201" alt="Cursor_wP3oSGAVXX" src="https://github.com/user-attachments/assets/44b86a71-bda4-4c26-9147-64dcc3a543e9">
+<img width="284" alt="Cursor_x2FPxXmTzM" src="https://github.com/user-attachments/assets/6c4a0c4f-1fd0-40c4-9933-7e0e05bbb068">
+<img width="689" alt="Cursor_PcRx3xCli3" src="https://github.com/user-attachments/assets/8d2fc207-ffe4-4cf8-9f4c-0d27f83d4c26">
+<img width="468" alt="Cursor_ATAvkcR48r" src="https://github.com/user-attachments/assets/d1bd237d-bd2f-4f48-b44b-5a38df99e2d5">
+<img width="283" alt="Cursor_e71H61HiXi" src="https://github.com/user-attachments/assets/60221106-9199-43ba-96a9-80ffeb672701">
+
+
+🚀 **Explore meu Repositório Avançado de RAG**! 🚀
+
+🔗 **GitHub Repository**: [LLM Advanced RAG Portfolio](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)
+
+---
+
+## 🏆 O que é o Projeto RAG?
+
+Este projeto foca na integração de **Geração Aumentada por Recuperação (RAG)** utilizando Modelos de Linguagem de Grande Escala (LLMs). Através da combinação de **recuperação de informações** e **geração de texto**, proporcionamos respostas mais precisas e contextuais em aplicações de IA.
+
+### 🚀 **Principais Características:**
+- **Alta Precisão**: Geração de respostas fundamentadas com informações de fontes confiáveis.
+- **Eficiência**: Otimização do fluxo de trabalho entre recuperação e geração de texto.
+- **Interface Amigável**: Design intuitivo para facilitar a interação do usuário.
+
+### 🔧 **Tecnologias Utilizadas:**
+- **💻 Modelos de Linguagem**: Integração com LLMs como GPT-4.
+- **📚 Algoritmos de Recuperação**: Técnicas avançadas para busca de dados relevantes.
+- **🔍 Ferramentas de Machine Learning**: TensorFlow, PyTorch, e muito mais!
+
+---
+
+### 🏅 **Porque você deve conferir?**
+- **Inovação**: Este projeto representa o futuro da interação entre humanos e IA.
+- **Colaboração**: Estou aberto a colaborações e melhorias! Junte-se a mim para explorar novas ideias.
+- **Aprendizado**: Aprenda como implementar RAG em suas próprias aplicações!
+
+### 🎖️ **Badges de Contribuição**
+![GitHub stars](https://img.shields.io/github/stars/chaos4455/LLM-Advanced-RAG-Portfolio?style=social) ![Forks](https://img.shields.io/github/forks/chaos4455/LLM-Advanced-RAG-Portfolio) ![License](https://img.shields.io/github/license/chaos4455/LLM-Advanced-RAG-Portfolio) ![Issues](https://img.shields.io/github/issues/chaos4455/LLM-Advanced-RAG-Portfolio) 
+
+---
+
+🔗 **Conecte-se e explore**: Visite o repositório agora e descubra as possibilidades do **RAG**! 🌐
+
+👉 **[Clique aqui para acessar o repositório!](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)**
+
+
 ## Mais Informações
 
 Para mais detalhes sobre minha experiência, habilidades e certificações, confira meu [currículo completo](https://github.com/chaos4455/Certifica-es).
