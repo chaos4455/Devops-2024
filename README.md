@@ -80,7 +80,8 @@ Se você deseja discutir mais sobre as tecnologias apresentadas ou colaborar em 
 <img width="468" alt="Cursor_ATAvkcR48r" src="https://github.com/user-attachments/assets/d1bd237d-bd2f-4f48-b44b-5a38df99e2d5">
 <img width="283" alt="Cursor_e71H61HiXi" src="https://github.com/user-attachments/assets/60221106-9199-43ba-96a9-80ffeb672701">
 
-
+---
+---
 # 🌐 Repositórios Relevantes
 
 Abaixo, você encontrará uma lista de repositórios que destacam minhas habilidades e projetos em diversas áreas, incluindo **Kubernetes, Terraform, GitOps, automação de IA**, e muito mais. Esses projetos refletem não apenas meu conhecimento técnico, mas também minha capacidade de implementar soluções completas e escaláveis. Cada projeto é um testemunho do que pode ser alcançado através de **DevOps e Inteligência Artificial**.
