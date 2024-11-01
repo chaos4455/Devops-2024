@@ -50,16 +50,27 @@ Aqui está o repositório que exibe a profundidade do meu conhecimento em **DevO
 
 
 [![Kubernetes MicroService Architecture](https://img.shields.io/badge/Kubernetes_MicroService_Archtect_Portfolio-0077B6?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/chaos4455/Kubernetes-MicroService-Archtect-Portfolio)  
+
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)  
+
 [![GitOps](https://img.shields.io/badge/GitOps-5A8C7A?style=for-the-badge&logo=git&logoColor=white)](https://www.gitops.tech)  
+
 [![Argo CD](https://img.shields.io/badge/ArgoCD-00C8E2?style=for-the-badge&logo=argo&logoColor=white)](https://argoproj.github.io/argo-cd/)  
+
 [![CI/CD](https://img.shields.io/badge/CI/CD-00BFFF?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.gitlab.com)  
+
 [![AI Ops](https://img.shields.io/badge/AI_Ops-FF4B4B?style=for-the-badge&logo=python&logoColor=white)](https://www.aiops.com)  
+
 [![LLM Ops](https://img.shields.io/badge/LLM_Ops-FFB200?style=for-the-badge&logo=machine-learning&logoColor=white)](https://www.llmops.com)  
+
 [![Autoscaling](https://img.shields.io/badge/Autoscaling-FF6347?style=for-the-badge&logo=cloud&logoColor=white)](https://kubernetes.io/docs/concepts/patterns/patterns/#horizontal-pod-autoscaling)  
+
 [![Load Balancer](https://img.shields.io/badge/Load_Balancer-32CD32?style=for-the-badge&logo=cloudflare&logoColor=white)](https://kubernetes.io/docs/concepts/services-networking/service/#loadbalancer)  
+
 [![Helm](https://img.shields.io/badge/Helm-327A8C?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh)  
+
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)  
+
 [![Cloud Native](https://img.shields.io/badge/Cloud_Native-FF3E00?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io)  
 
 ## 🌟 Sobre o Projeto
