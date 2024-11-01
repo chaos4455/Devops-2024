@@ -14,7 +14,8 @@ Meu objetivo é utilizar minha experiência e habilidades para contribuir de for
 
 - 📧 **Email:** [oeliasandrade@gmail.com](mailto:oeliasandrade@gmail.com)
 - 📱 **Telefone:** (44) 98859-7116 (WhatsApp disponível)
-
+---
+---
 # 🚀 Meu Portfólio de DevOps: Kubernetes Microservice Architecture
 
 Aqui está o repositório que exibe a profundidade do meu conhecimento em **DevOps**, **Kubernetes**, **Docker**, **GitOps**, **CI/CD**, e muito mais! 🌐💻
