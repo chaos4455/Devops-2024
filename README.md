@@ -36,7 +36,7 @@ Aqui está o repositório que exibe a profundidade do meu conhecimento em **DevO
 
 Neste repositório, você encontrará um projeto robusto que demonstra minha capacidade de **provisionar ambientes containerizados** com tecnologias de ponta, abrangendo desde a criação de **Dockerfiles** até a configuração de **Kubernetes** e práticas avançadas de **GitOps**. 💪✨
 
-### O que você vai encontrar aqui:
+### O que eu mostro e exemplifico dos meus conhecimento em devops e CI/CD:
 
 - **Docker e Kubernetes**: Domínio completo na criação e gerenciamento de contêineres, com orquestração avançada usando Kubernetes. Aprenda como eu configurei **Deployments**, **ReplicaSets**, **Ingress**, e **Load Balancers** para garantir alta disponibilidade e escalabilidade. 🚢🔧
 
@@ -51,12 +51,18 @@ Neste repositório, você encontrará um projeto robusto que demonstra minha cap
 ### Por que este projeto é significativo?
 
 Este repositório não é apenas uma coleção de scripts e configurações; ele é uma vitrine do meu **background técnico** e **competências em DevOps**. Desde a concepção até a execução, cada componente foi projetado com o objetivo de criar uma solução que não só atenda às necessidades do usuário, mas que também seja escalável e sustentável no longo prazo. 🌍🔝
+---
+
 
 ## 📈 Conclusão
 
 Convido você a explorar meu repositório [Kubernetes MicroService Architect Portfolio](https://github.com/chaos4455/Kubernetes-MicroService-Archtect-Portfolio) e testemunhar meu domínio nas práticas de **DevOps** e **containerização**. Este é o estado da arte em orquestração de contêineres, onde a inovação e a eficiência se encontram! 💼🔥
 
 Se você deseja discutir mais sobre as tecnologias apresentadas ou colaborar em futuros projetos, não hesite em entrar em contato! 🚀💬
+
+---
+
+---
 
 🚀 **Também tenho projetos avançados em áreas do estado da arte em IA, machine learning e LLms usando bancos vetoriais.**! 🚀
 
