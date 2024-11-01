@@ -117,8 +117,6 @@ Este projeto foca na integração de **Geração Aumentada por Recuperação (RA
 
 👉 **[Clique aqui para acessar o repositório!](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)**
 
-![sualizations-of-the-SVD-based-node2vec-embeddings-first-row-and-original-node2vec_Q320](https://github.com/user-attachments/assets/e4f11636-2023-4672-a899-e221c43e8338)
-
 <img width="841" alt="Screen-Shot-2018-04-25-at-13 21 44" src="https://github.com/user-attachments/assets/431570d5-1219-4291-b654-ffcb99855ed3">
 
 🔗 **GitHub Repository**: [LLM Advanced RAG Portfolio](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)
