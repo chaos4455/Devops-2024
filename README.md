@@ -1,8 +1,5 @@
 # 📁 Portfólio de DevOps 2024
 
-## Sobre Mim
-
-
 ![FB_IMG_1707845486777](https://github.com/user-attachments/assets/6900c431-a328-492a-b1be-5ff8f482bde9)
 
 Olá! Meu nome é Elias Andrade e sou um profissional de TI com mais de 14 anos de experiência na área de infraestrutura de TI, com foco em administração de redes, sistemas Linux e práticas DevOps. Atuei em uma variedade de ambientes, desde pequenas empresas até grandes corporações, adquirindo um conhecimento sólido e uma abordagem versátil para resolver desafios complexos de TI.
