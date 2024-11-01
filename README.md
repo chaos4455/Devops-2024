@@ -109,6 +109,18 @@ Se você deseja discutir mais sobre as tecnologias apresentadas ou colaborar em 
 
 🚀 **Explore meu Repositório Avançado de RAG**! 🚀
 
+## 🏆 O que é a técnica de RAG?
+
+Este projeto foca na integração de **Geração Aumentada por Recuperação (RAG)** utilizando Modelos de Linguagem de Grande Escala (LLMs). Através da combinação de **recuperação de informações** e **geração de texto**, proporcionamos respostas mais precisas e contextuais em aplicações de IA.
+
+🔗 **Conecte-se e explore**: Visite o repositório agora e descubra as possibilidades do **RAG**! 🌐
+
+👉 **[Clique aqui para acessar o repositório!](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)**
+
+![sualizations-of-the-SVD-based-node2vec-embeddings-first-row-and-original-node2vec_Q320](https://github.com/user-attachments/assets/e4f11636-2023-4672-a899-e221c43e8338)
+
+<img width="841" alt="Screen-Shot-2018-04-25-at-13 21 44" src="https://github.com/user-attachments/assets/431570d5-1219-4291-b654-ffcb99855ed3">
+
 🔗 **GitHub Repository**: [LLM Advanced RAG Portfolio](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)
 
 <img width="221" alt="Cursor_byyIKdx0Ns" src="https://github.com/user-attachments/assets/74d58df1-bf51-4c8d-8f1b-bb622e7faa52">
@@ -127,23 +139,6 @@ Se você deseja discutir mais sobre as tecnologias apresentadas ou colaborar em 
 ![0_hkbsIc6g6u9DWZMH](https://github.com/user-attachments/assets/8a6060b5-993b-45fe-aabb-27dc0ec4734f)
 
 <img width="299" alt="Cursor_J9NiGmD3ob" src="https://github.com/user-attachments/assets/1ebcf565-63e9-4698-8b91-21b18b562569"><!-- Início do Portfólio -->
-
-## 🏆 O que é a técnica de RAG?
-
-Este projeto foca na integração de **Geração Aumentada por Recuperação (RAG)** utilizando Modelos de Linguagem de Grande Escala (LLMs). Através da combinação de **recuperação de informações** e **geração de texto**, proporcionamos respostas mais precisas e contextuais em aplicações de IA.
-
-🔗 **Conecte-se e explore**: Visite o repositório agora e descubra as possibilidades do **RAG**! 🌐
-
-👉 **[Clique aqui para acessar o repositório!](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)**
-
-<img width="299" alt="Cursor_J9NiGmD3ob" src="https://github.com/user-attachments/assets/45881d5e-a604-4b7f-a099-714938b92579">
-
-![0_hkbsIc6g6u9DWZMH](https://github.com/user-attachments/assets/3ca8d569-b0a9-4c20-928d-315e1694ee88)
-
-![sualizations-of-the-SVD-based-node2vec-embeddings-first-row-and-original-node2vec_Q320](https://github.com/user-attachments/assets/e4f11636-2023-4672-a899-e221c43e8338)
-
-<img width="841" alt="Screen-Shot-2018-04-25-at-13 21 44" src="https://github.com/user-attachments/assets/431570d5-1219-4291-b654-ffcb99855ed3">
-
 
 ### 🚀 **Principais Características:**
 - **Alta Precisão**: Geração de respostas fundamentadas com informações de fontes confiáveis.
