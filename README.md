@@ -1,5 +1,3 @@
-![0_hkbsIc6g6u9DWZMH](https://github.com/user-attachments/assets/8a6060b5-993b-45fe-aabb-27dc0ec4734f)<img width="299" alt="Cursor_J9NiGmD3ob" src="https://github.com/user-attachments/assets/1ebcf565-63e9-4698-8b91-21b18b562569"><!-- Início do Portfólio -->
-
 # 📁 Portfólio de DevOps 2024
 
 ## Sobre Mim
@@ -103,11 +101,21 @@ Se você deseja discutir mais sobre as tecnologias apresentadas ou colaborar em 
 🔗 **GitHub Repository**: [LLM Advanced RAG Portfolio](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)
 
 <img width="221" alt="Cursor_byyIKdx0Ns" src="https://github.com/user-attachments/assets/74d58df1-bf51-4c8d-8f1b-bb622e7faa52">
+
 <img width="201" alt="Cursor_wP3oSGAVXX" src="https://github.com/user-attachments/assets/44b86a71-bda4-4c26-9147-64dcc3a543e9">
+
 <img width="284" alt="Cursor_x2FPxXmTzM" src="https://github.com/user-attachments/assets/6c4a0c4f-1fd0-40c4-9933-7e0e05bbb068">
+
+
 <img width="689" alt="Cursor_PcRx3xCli3" src="https://github.com/user-attachments/assets/8d2fc207-ffe4-4cf8-9f4c-0d27f83d4c26">
+
 <img width="468" alt="Cursor_ATAvkcR48r" src="https://github.com/user-attachments/assets/d1bd237d-bd2f-4f48-b44b-5a38df99e2d5">
+
 <img width="283" alt="Cursor_e71H61HiXi" src="https://github.com/user-attachments/assets/60221106-9199-43ba-96a9-80ffeb672701">
+
+![0_hkbsIc6g6u9DWZMH](https://github.com/user-attachments/assets/8a6060b5-993b-45fe-aabb-27dc0ec4734f)
+
+<img width="299" alt="Cursor_J9NiGmD3ob" src="https://github.com/user-attachments/assets/1ebcf565-63e9-4698-8b91-21b18b562569"><!-- Início do Portfólio -->
 
 ## 🏆 O que é a técnica de RAG?
 
