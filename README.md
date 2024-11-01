@@ -1,4 +1,4 @@
-<!-- Início do Portfólio -->
+![0_hkbsIc6g6u9DWZMH](https://github.com/user-attachments/assets/8a6060b5-993b-45fe-aabb-27dc0ec4734f)<img width="299" alt="Cursor_J9NiGmD3ob" src="https://github.com/user-attachments/assets/1ebcf565-63e9-4698-8b91-21b18b562569"><!-- Início do Portfólio -->
 
 # 📁 Portfólio de DevOps 2024
 
@@ -102,8 +102,6 @@ Se você deseja discutir mais sobre as tecnologias apresentadas ou colaborar em 
 
 🔗 **GitHub Repository**: [LLM Advanced RAG Portfolio](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)
 
-# 🌟 **Destaque do Portfólio: Projeto RAG Avançado** 🌟
-
 <img width="221" alt="Cursor_byyIKdx0Ns" src="https://github.com/user-attachments/assets/74d58df1-bf51-4c8d-8f1b-bb622e7faa52">
 <img width="201" alt="Cursor_wP3oSGAVXX" src="https://github.com/user-attachments/assets/44b86a71-bda4-4c26-9147-64dcc3a543e9">
 <img width="284" alt="Cursor_x2FPxXmTzM" src="https://github.com/user-attachments/assets/6c4a0c4f-1fd0-40c4-9933-7e0e05bbb068">
@@ -111,8 +109,38 @@ Se você deseja discutir mais sobre as tecnologias apresentadas ou colaborar em 
 <img width="468" alt="Cursor_ATAvkcR48r" src="https://github.com/user-attachments/assets/d1bd237d-bd2f-4f48-b44b-5a38df99e2d5">
 <img width="283" alt="Cursor_e71H61HiXi" src="https://github.com/user-attachments/assets/60221106-9199-43ba-96a9-80ffeb672701">
 
+## 🏆 O que é a técnica de RAG?
+
+Este projeto foca na integração de **Geração Aumentada por Recuperação (RAG)** utilizando Modelos de Linguagem de Grande Escala (LLMs). Através da combinação de **recuperação de informações** e **geração de texto**, proporcionamos respostas mais precisas e contextuais em aplicações de IA.
+
+🔗 **Conecte-se e explore**: Visite o repositório agora e descubra as possibilidades do **RAG**! 🌐
+
+👉 **[Clique aqui para acessar o repositório!](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)**
+
+<img width="299" alt="Cursor_J9NiGmD3ob" src="https://github.com/user-attachments/assets/45881d5e-a604-4b7f-a099-714938b92579">
+![0_hkbsIc6g6u9DWZMH](https://github.com/user-attachments/assets/3ca8d569-b0a9-4c20-928d-315e1694ee88)
+![sualizations-of-the-SVD-based-node2vec-embeddings-first-row-and-original-node2vec_Q320](https://github.com/user-attachments/assets/e4f11636-2023-4672-a899-e221c43e8338)
+<img width="841" alt="Screen-Shot-2018-04-25-at-13 21 44" src="https://github.com/user-attachments/assets/431570d5-1219-4291-b654-ffcb99855ed3">
+
+
+### 🚀 **Principais Características:**
+- **Alta Precisão**: Geração de respostas fundamentadas com informações de fontes confiáveis.
+- **Eficiência**: Otimização do fluxo de trabalho entre recuperação e geração de texto.
+- **Interface Amigável**: Design intuitivo para facilitar a interação do usuário.
+
+### 🔧 **Tecnologias Utilizadas:**
+- **💻 Modelos de Linguagem**: Integração com LLMs como GPT-4.
+- **📚 Algoritmos de Recuperação**: Técnicas avançadas para busca de dados relevantes.
+- **🔍 Ferramentas de Machine Learning**: TensorFlow, PyTorch, e muito mais!
+
 ---
+
+## Mais Informações
+
+Para mais detalhes sobre minha experiência, habilidades e certificações, confira meu [currículo completo](https://github.com/chaos4455/Certifica-es).
+
 ---
+
 # 🌐 Repositórios Relevantes
 
 Abaixo, você encontrará uma lista de repositórios que destacam minhas habilidades e projetos em diversas áreas, incluindo **Kubernetes, Terraform, GitOps, automação de IA**, e muito mais. Esses projetos refletem não apenas meu conhecimento técnico, mas também minha capacidade de implementar soluções completas e escaláveis. Cada projeto é um testemunho do que pode ser alcançado através de **DevOps e Inteligência Artificial**.
@@ -328,6 +356,16 @@ Esses repositórios representam uma fração do meu trabalho e dedicação ao de
 
 Este projeto foca na integração de **Geração Aumentada por Recuperação (RAG)** utilizando Modelos de Linguagem de Grande Escala (LLMs). Através da combinação de **recuperação de informações** e **geração de texto**, proporcionamos respostas mais precisas e contextuais em aplicações de IA.
 
+🔗 **Conecte-se e explore**: Visite o repositório agora e descubra as possibilidades do **RAG**! 🌐
+
+👉 **[Clique aqui para acessar o repositório!](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)**
+
+<img width="299" alt="Cursor_J9NiGmD3ob" src="https://github.com/user-attachments/assets/45881d5e-a604-4b7f-a099-714938b92579">
+![0_hkbsIc6g6u9DWZMH](https://github.com/user-attachments/assets/3ca8d569-b0a9-4c20-928d-315e1694ee88)
+![sualizations-of-the-SVD-based-node2vec-embeddings-first-row-and-original-node2vec_Q320](https://github.com/user-attachments/assets/e4f11636-2023-4672-a899-e221c43e8338)
+<img width="841" alt="Screen-Shot-2018-04-25-at-13 21 44" src="https://github.com/user-attachments/assets/431570d5-1219-4291-b654-ffcb99855ed3">
+
+
 ### 🚀 **Principais Características:**
 - **Alta Precisão**: Geração de respostas fundamentadas com informações de fontes confiáveis.
 - **Eficiência**: Otimização do fluxo de trabalho entre recuperação e geração de texto.
@@ -344,16 +382,6 @@ Este projeto foca na integração de **Geração Aumentada por Recuperação (RA
 - **Inovação**: Este projeto representa o futuro da interação entre humanos e IA.
 - **Colaboração**: Estou aberto a colaborações e melhorias! Junte-se a mim para explorar novas ideias.
 - **Aprendizado**: Aprenda como implementar RAG em suas próprias aplicações!
-
-### 🎖️ **Badges de Contribuição**
-![GitHub stars](https://img.shields.io/github/stars/chaos4455/LLM-Advanced-RAG-Portfolio?style=social) ![Forks](https://img.shields.io/github/forks/chaos4455/LLM-Advanced-RAG-Portfolio) ![License](https://img.shields.io/github/license/chaos4455/LLM-Advanced-RAG-Portfolio) ![Issues](https://img.shields.io/github/issues/chaos4455/LLM-Advanced-RAG-Portfolio) 
-
----
-
-🔗 **Conecte-se e explore**: Visite o repositório agora e descubra as possibilidades do **RAG**! 🌐
-
-👉 **[Clique aqui para acessar o repositório!](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)**
-
 
 ## Mais Informações
 
