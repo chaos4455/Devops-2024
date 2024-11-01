@@ -347,7 +347,6 @@ resource "google_service_networking_service" "mysql-service" {
   }
 }
 ```
-
 ### 8. Materiais de Estudo e POCs
 [![AI IT Help](https://img.shields.io/badge/AI_IT_Help-0077B6?style=for-the-badge&logo=book&logoColor=white)](https://github.com/chaos4455/ai-it-help)
 Materiais de estudo criados para a comunidade, focando em automações de IA. Uma oportunidade de aprender sobre arquitetura de nuvem e suas aplicações práticas.
@@ -360,47 +359,7 @@ Um repositório que marca o início dos meus estudos em DevOps, onde explorei o 
 Meu primeiro repositório de Docker, criado em 01 de 2018. Desde então, tenho trabalhado com Docker e Kubernetes, evoluindo minhas habilidades e conhecimento na área.
 
 ---
-
 Esses repositórios representam uma fração do meu trabalho e dedicação ao desenvolvimento de soluções escaláveis e inovadoras. Estou sempre buscando aprender e aplicar novos conhecimentos para impulsionar a tecnologia e a automação.
-
-
----
-
-## 🏆 O que é o Projeto RAG?
-
-Este projeto foca na integração de **Geração Aumentada por Recuperação (RAG)** utilizando Modelos de Linguagem de Grande Escala (LLMs). Através da combinação de **recuperação de informações** e **geração de texto**, proporcionamos respostas mais precisas e contextuais em aplicações de IA.
-
-🔗 **Conecte-se e explore**: Visite o repositório agora e descubra as possibilidades do **RAG**! 🌐
-
-👉 **[Clique aqui para acessar o repositório!](https://github.com/chaos4455/LLM-Advanced-RAG-Portfolio)**
-
-<img width="299" alt="Cursor_J9NiGmD3ob" src="https://github.com/user-attachments/assets/45881d5e-a604-4b7f-a099-714938b92579">
-![0_hkbsIc6g6u9DWZMH](https://github.com/user-attachments/assets/3ca8d569-b0a9-4c20-928d-315e1694ee88)
-![sualizations-of-the-SVD-based-node2vec-embeddings-first-row-and-original-node2vec_Q320](https://github.com/user-attachments/assets/e4f11636-2023-4672-a899-e221c43e8338)
-<img width="841" alt="Screen-Shot-2018-04-25-at-13 21 44" src="https://github.com/user-attachments/assets/431570d5-1219-4291-b654-ffcb99855ed3">
-
-
-### 🚀 **Principais Características:**
-- **Alta Precisão**: Geração de respostas fundamentadas com informações de fontes confiáveis.
-- **Eficiência**: Otimização do fluxo de trabalho entre recuperação e geração de texto.
-- **Interface Amigável**: Design intuitivo para facilitar a interação do usuário.
-
-### 🔧 **Tecnologias Utilizadas:**
-- **💻 Modelos de Linguagem**: Integração com LLMs como GPT-4.
-- **📚 Algoritmos de Recuperação**: Técnicas avançadas para busca de dados relevantes.
-- **🔍 Ferramentas de Machine Learning**: TensorFlow, PyTorch, e muito mais!
-
----
-
-### 🏅 **Porque você deve conferir?**
-- **Inovação**: Este projeto representa o futuro da interação entre humanos e IA.
-- **Colaboração**: Estou aberto a colaborações e melhorias! Junte-se a mim para explorar novas ideias.
-- **Aprendizado**: Aprenda como implementar RAG em suas próprias aplicações!
-
-## Mais Informações
-
-Para mais detalhes sobre minha experiência, habilidades e certificações, confira meu [currículo completo](https://github.com/chaos4455/Certifica-es).
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
