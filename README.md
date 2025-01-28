@@ -18,6 +18,10 @@ Meu objetivo é utilizar minha experiência e habilidades para contribuir de for
 
 Aqui está o repositório que exibe a profundidade do meu conhecimento em **DevOps**, **Kubernetes**, **Docker**, **GitOps**, **CI/CD**, e muito mais! 🌐💻
 
+<img width="1443" alt="ImageGlass_DQeHrtyQKI" src="https://github.com/user-attachments/assets/c42223e4-d734-490c-a0f8-09593087264c" />
+
+<img width="899" alt="ImageGlass_H6LReBA9mz" src="https://github.com/user-attachments/assets/e1e443e7-0d1a-491c-b346-388f67ae109d" />
+
 ## 🌟 Sobre o Projeto
 
 Neste repositório, você encontrará um projeto robusto que demonstra minha capacidade de **provisionar ambientes containerizados** com tecnologias de ponta, abrangendo desde a criação de **Dockerfiles** até a configuração de **Kubernetes** e práticas avançadas de **GitOps**. 💪✨
